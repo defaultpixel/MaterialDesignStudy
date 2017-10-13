@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/backup"
+        android:icon="@drawable/backup_24dp"
+        android:title="@string/ToolBar_backup"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/delete_24dp"
+        android:title="@string/ToolBar_delete"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/settings_24dp"
+        android:title="@string/ToolBar_settings"
+        app:showAsAction="never" />
+
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaterialDesignStudy</string>
+    <string name="ToolBar_text">Fruits</string>
+    <string name="ToolBar_backup">Backup</string>
+    <string name="ToolBar_delete">Delete</string>
+    <string name="ToolBar_settings">Settings</string>
+</resources>
